@@ -23,5 +23,6 @@ System.out.println("Enter the elements of the array:");
 for(int i=0;i<n;i++){
     arr[i]=sc.nextInt();
 }
+sc.close();
 System.out.println("Largest element in the array is:"+Largest(arr,n));
 }}
