@@ -14,3 +14,23 @@ int n=arr.length;
         }
     }
 }}
+
+
+//class Solution {
+ //   public int[] twoSum(int[] nums, int target) {
+
+   //       int n = nums.length;
+
+       //   for (int left = 0; left < n; left++) {
+           //   for (int right = left + 1; right < n; right++) {
+
+   //   int sum = nums[left] + nums[right];
+
+ //                 if (sum == target) {
+     //                 return new int[]{left, right};
+     //         }
+     // }
+ //         }
+ //     return new int[]{};
+ // }
+//}
